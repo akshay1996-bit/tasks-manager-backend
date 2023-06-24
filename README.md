@@ -14,16 +14,25 @@ Following are the API's:
 GET '/' - shows welcome page, to make sure server is up and running.
 
 GET '/tasks' - Fetchs all the tasks.
+
 GET '/tasks/:id' - Fetchs the tasks by the id
+
 GET '/priority/:priority' - Fetches all the tasks by particular priority
+
 POST '/tasks' - Creates a new task
+
 PUT '/tasks/:id' - Updates a task by Id
+
 DELETE '/tasks/:id' - Deletes a task by id.
 
 Following is the schema:
+
 "title" - string *required
+
 "description" - string *required
+
 "isComplete" - boolean
+
 "priority" - string value can be one of the three -> "low","medium","high".
 
 Validation provided are:
