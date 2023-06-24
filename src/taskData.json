@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "f29f5989-3422-460c-a4a2-30c3832a9d91",
+      "title": "Wake up and brush",
+      "description": "At 7AM",
+      "isComplete": false,
+      "priority": "low"
+    },
+    {
+      "id": "7beea58f-eb6e-4eed-8c77-f3ed8f89d954",
+      "title": "Take bath",
+      "description": "At 7:30AM",
+      "isComplete": false,
+      "priority": "medium"
+    },
+    {
+      "id": "7cf88d8f-d1f3-4b9a-a57f-44b8c2611dfd",
+      "title": "Lunch",
+      "description": "At 2PM",
+      "isComplete": true,
+      "priority": "low"
+    },
+    {
+      "id": "7fd0b9bc-e9ab-4aa8-b3a8-6b8eedecf1e5",
+      "title": "Lunch",
+      "description": "At 3PM",
+      "isComplete": false,
+      "priority": "medium"
+    }
+  ]
+}
