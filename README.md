@@ -27,9 +27,9 @@ DELETE '/tasks/:id' - Deletes a task by id.
 
 Following is the schema:
 
-"title" - string *required
+"title" - string *value is required
 
-"description" - string *required
+"description" - string *value is required
 
 "isComplete" - boolean
 
